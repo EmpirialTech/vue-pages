@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>TESTING GITHUB PAGES WITH Matt</h1>
+    <h1>TESTING GITHUB PAGES WITH joe</h1>
   </div>
 </template>
 
